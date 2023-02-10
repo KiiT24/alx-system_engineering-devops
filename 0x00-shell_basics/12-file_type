@@ -1,4 +1,1 @@
-#!/bin/bash
-file_type=$(file /tmp/iamafile)
-file /tmp/iamafile
 file/tmp/iamafile
