@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x my_script.sh ./my_script.sh
+mkdir /tmp/my_first_directory
